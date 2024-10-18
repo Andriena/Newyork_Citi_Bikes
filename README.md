@@ -40,11 +40,11 @@ Seaborn 0.12.2
 
 ## Environment
 This is how you activate the virtual environment in a terminal and install the project dependencies
-# activate the virtual environment
+### activate the virtual environment
 conda activate <env>
-# install the pip package
+### install the pip package
 conda install pip
-# install the requirements for this project
+###install the requirements for this project
 pip install -r requirements.txt
 
 
