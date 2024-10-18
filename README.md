@@ -1,6 +1,6 @@
 # Newyork_Citi_Bikes
 
-##Table of content:
+## Table of content:
 1. Importing Packages
 2. Data collection and Description
 2.1. Data Collection
@@ -24,14 +24,14 @@
 10. Conclusion and Future Work
 11. References
 
-##Dataset
+## Dataset
 This data used in this dataset has been sourced from the official Citi Bike system data, which is publicly available and can be accessed at Citi Bike System Data. The dataset includes monthly CSV files that have been combined and preprocessed to create a unified dataset for the entire year of 2023.The data was modified and collected from Kaggle.
 
-##Packages
+## Packages
 
-##Environment
+## Environment
 
-##Author
+## Author
 Name: Mogafe Naledi Mogale 
 Email: nalediandriena@gmail.com
 Github_name: Andriena
